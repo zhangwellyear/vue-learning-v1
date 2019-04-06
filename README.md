@@ -10,4 +10,5 @@
 
 ## 制作首页App组件
 1. 完成 Header区域，使用的是 Mint-UI 中的Header组件
-2. 制作底部的Tabbar
+2. 制作底部的Tabbar 区域，使用的是mui的 tabbar
+3. 要在 中间区域放置一个 router-view 来展示路由匹配到的组件

@@ -3,6 +3,7 @@ import Vue from 'vue';
 import { Header } from 'mint-ui';
 import 'mint-ui/lib/style.css';
 import './lib/mui/css/mui.css';
+import './lib/mui/css/icon-extra.css';
 
 Vue.component(Header.name, Header);
 
