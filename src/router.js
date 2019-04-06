@@ -3,7 +3,8 @@ import VueRouter from 'vue-router'
 
 // 3. 创建 vue对象
 var router = new VueRouter({
-    routes: []
+    routes: [],
+    linkActiveClass: 'mui-active'
 });
 
 export default router;
